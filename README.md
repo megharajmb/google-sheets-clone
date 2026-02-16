@@ -80,27 +80,50 @@ Formula values persist correctly after refresh
     - MongoDB + Mongoose
     - JWT Authentication
     - Socket.IO Server
-  
-##  Project Structure
-google-sheets-clone/
-│
-├── backend/
-│   ├── src/
-│   │   ├── controllers/
-│   │   ├── middleware/
-│   │   ├── models/
-│   │   ├── routes/
-│   │   ├── utils/
-│   │   ├── socket.js
-│   │   └── server.js
-│   └── .env
-│
-├── frontend/
-│   ├── src/
-│   │   ├── pages/
-│   │   ├── components/
-│   │   ├── api/
-│   │   └── socket.js
-│   └── .env
-│
-└── README.md
+
+## 📸 Screenshots
+### Login Page
+![Sheet UI](./frontend/src/assets/screenshots/login.png)
+
+---
+
+### Signup page
+![Sheet1](./frontend/src/assets/screenshots/login.png)
+
+### 🧾 Spreadsheet UI (Main Sheet View)
+![Sheet UI](./frontend/src/assets/screenshots/Sheet_ui.png)
+
+---
+
+### 📄 Spreadsheet Example (Sheet1)
+![Sheet1](./frontend/src/assets/screenshots/Sheet1.png)
+
+---
+
+### ✏️ Cell Editing with Editor Name Display
+![Editor Name While Editing](./frontend/src/assets/screenshots/editor_name_showing_while_edit.png)
+
+---
+
+### 🔗 Share Modal
+![Share Modal](./frontend/src/assets/screenshots/share_modal.png)
+
+---
+
+### 📤 Shared Sheet View
+![Shared Sheet](./frontend/src/assets/screenshots/SharedSheet.png)
+
+---
+
+### 📌 Share Sheet Popup
+![Share Sheet](./frontend/src/assets/screenshots/Share_Sheet.png)
+
+---
+
+### 🔐 Permission Control Modal
+![Permission Modal](./frontend/src/assets/screenshots/permission_modal.png)
+
+---
+
+### 🕒 Version History & Rollback Feature
+![History](./frontend/src/assets/screenshots/history.png)
