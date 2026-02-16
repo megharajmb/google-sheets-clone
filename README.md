@@ -84,12 +84,12 @@ Formula values persist correctly after refresh
 
 ## 📸 Screenshots
 ### Login Page
-![Sheet UI](./frontend/src/assets/screenshots/login.png)
+![login](./frontend/src/assets/screenshots/login.png)
 
 ---
 
 ### Signup page
-![Sheet1](./frontend/src/assets/screenshots/login.png)
+![signup](./frontend/src/assets/screenshots/singup.png)
 
 ### 🧾 Spreadsheet UI (Main Sheet View)
 ![Sheet UI](./frontend/src/assets/screenshots/Sheet_ui.png)
