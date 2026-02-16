@@ -81,6 +81,7 @@ Formula values persist correctly after refresh
     - JWT Authentication
     - Socket.IO Server
 
+
 ## 📸 Screenshots
 ### Login Page
 ![Sheet UI](./frontend/src/assets/screenshots/login.png)
@@ -127,3 +128,4 @@ Formula values persist correctly after refresh
 
 ### 🕒 Version History & Rollback Feature
 ![History](./frontend/src/assets/screenshots/history.png)
+
